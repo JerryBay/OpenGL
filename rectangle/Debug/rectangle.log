@@ -1,0 +1,24 @@
+﻿  源.cpp
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewBindBuffer，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewBufferData，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewDeleteBuffers，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewGenBuffers，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewAttachShader，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewCompileShader，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewCreateProgram，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewCreateShader，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewDeleteProgram，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewDeleteShader，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewEnableVertexAttribArray，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewGetProgramInfoLog，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewGetProgramiv，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewGetShaderInfoLog，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewGetShaderiv，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewLinkProgram，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewShaderSource，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewUseProgram，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewVertexAttribPointer，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewBindVertexArray，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewDeleteVertexArrays，函数 _main 中引用了该符号
+源.obj : error LNK2019: 无法解析的外部符号 __imp____glewGenVertexArrays，函数 _main 中引用了该符号
+E:\Code\OpenGL\Debug\rectangle.exe : fatal error LNK1120: 22 个无法解析的外部命令
